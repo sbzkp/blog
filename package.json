@@ -2,7 +2,7 @@
   "name": "sahara_aki_blog",
   "version": "0.1.0",
   "private": true,
-  "homepage": "https://sahara-aki.github.io/blog/",
+  "homepage": "https://sbzkp.github.io/blog/",
   "dependencies": {
     "antd": "^3.6.4",
     "autoprefixer": "7.1.6",
